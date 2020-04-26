@@ -12,7 +12,7 @@ const letter = (string) => {
         }
         if (counter > 1){
             counter = 0;
-            //
+            continue;
         } else {
             return arr[x];
         }

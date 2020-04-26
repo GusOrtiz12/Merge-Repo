@@ -76,4 +76,4 @@ function findCoins (coins, amount){
         return -1;
     }
   }
-  console.log(findCoins())
+console.log(findCoins());
